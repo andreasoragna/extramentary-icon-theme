@@ -16,9 +16,29 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="scribus-ng-48.svg">
+   sodipodi:docname="scribus-ng.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient4197"
+       inkscape:collect="always">
+      <stop
+         id="stop4199"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         offset="0.30769363"
+         id="stop4201" />
+      <stop
+         id="stop4203"
+         offset="0.76923209"
+         style="stop-color:#ffffff;stop-opacity:0.15686275" />
+      <stop
+         id="stop4205"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.39215687" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4361">
@@ -231,6 +251,15 @@
        x2="36"
        y2="1023.3622"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4197"
+       id="linearGradient4195"
+       x1="37"
+       y1="1015.3622"
+       x2="37"
+       y2="1028.3622"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -239,9 +268,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.8110657"
-     inkscape:cx="27.018479"
-     inkscape:cy="19.963032"
+     inkscape:zoom="15.365414"
+     inkscape:cx="30.088017"
+     inkscape:cy="17.402434"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -350,5 +379,11 @@
        id="path4184"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4195);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;opacity:0.4"
+       d="m 39.4,1016.3622 c 1.136411,1.2605 2.151525,2.7636 2.8,5 -2.226776,2.5543 -4.382112,5.3372 -7.2,6 -0.41251,-1.4875 -1.360759,-2.4392 -3,-2.7 0.898392,-3.3445 4.246353,-5.7864 7.4,-8.3 z"
+       id="path4187"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
